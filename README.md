@@ -1,4 +1,4 @@
-# seniorassassin
+# seniorassassin deprecated
 
 ## Project setup
 ```
